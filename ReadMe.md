@@ -1,5 +1,4 @@
 # 💫 About Me:
-
 Final-year undergraduate specializing in Artificial Intelligence and Data Science with strong foundational knowledge and<br> growing expertise in applying AI to real-world challenges. Experienced in data analysis, statistical modeling, and developing<br> intelligent systems using tools like Python, SQL, and Power BI. Passionate about building impactful, data-driven solutions<br> and continuously enhancing technical capabilities through hands-on projects and internships.
 
 
